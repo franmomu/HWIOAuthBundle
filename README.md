@@ -7,6 +7,7 @@ The HWIOAuthBundle adds support for authenticating users via OAuth1.0a or OAuth2
 
 > __Note__: this bundle adds easy way to implement any of OAuth1.0a or OAuth2 provider!
 
+
 Installation
 ------------
 
